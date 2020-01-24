@@ -34,6 +34,9 @@
       <image:loc>http://chirmievents.com/images/beach-wedding-in-chennai480x319.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://chirmievents.com/images/original_indian-wedding-ritual-henna.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://chirmievents.com/images/wedding%20in%20bangalore480x271.jpg</image:loc>
     </image:image>
     <image:image>
@@ -646,6 +649,9 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://chirmievents.com/phone/about.html"/>
+    <image:image>
+      <image:loc>http://chirmievents.com/images/original_indian-wedding-ritual-henna.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://chirmievents.com/images/lle-logo--black2.png</image:loc>
     </image:image>
