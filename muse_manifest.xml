@@ -1,28 +1,28 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chirmievents.com" resolutions="1x" timestamp="1579854071659">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chirmievents.com" resolutions="1x" timestamp="1579855958597">
   <folder name="css">
     <file name="site_global.css" crc="3891803924"/>
-    <file name="master_a-master.css" crc="156703472" ref="rashmi:service:about:festive-wedding:bharani:our-weddings:aanchal:destination-wedding:pooja:saudamini:contact:sharanya:untitled-9:shikha:index:kirti:aarthi-and-arun:niharika:deepti:tradional"/>
-    <file name="rashmi.css" crc="3974052485" ref="rashmi"/>
-    <file name="service.css" crc="506885251" ref="service"/>
-    <file name="iefonts_service.css" crc="4059294582" ref="service"/>
-    <file name="about.css" crc="4135939808" ref="about"/>
-    <file name="festive-wedding.css" crc="376735781" ref="festive-wedding"/>
-    <file name="bharani.css" crc="404509024" ref="bharani"/>
-    <file name="our-weddings.css" crc="433952197" ref="our-weddings"/>
-    <file name="aanchal.css" crc="3985138784" ref="aanchal"/>
-    <file name="destination-wedding.css" crc="425717607" ref="destination-wedding"/>
-    <file name="pooja.css" crc="4055684941" ref="pooja"/>
-    <file name="saudamini.css" crc="3806178764" ref="saudamini"/>
-    <file name="contact.css" crc="3801852687" ref="contact"/>
-    <file name="sharanya.css" crc="4009100596" ref="sharanya"/>
-    <file name="untitled-9.css" crc="407969043" ref="untitled-9"/>
-    <file name="shikha.css" crc="494373539" ref="shikha"/>
-    <file name="index.css" crc="4250652615" ref="index"/>
-    <file name="kirti.css" crc="3837111964" ref="kirti"/>
-    <file name="aarthi-and-arun.css" crc="451059832" ref="aarthi-and-arun"/>
-    <file name="niharika.css" crc="64725773" ref="niharika"/>
-    <file name="deepti.css" crc="171531045" ref="deepti"/>
-    <file name="tradional.css" crc="241133927" ref="tradional"/>
+    <file name="master_a-master.css" crc="4048166839" ref="rashmi:service:about:festive-wedding:bharani:our-weddings:aanchal:destination-wedding:pooja:saudamini:contact:sharanya:untitled-9:shikha:index:kirti:aarthi-and-arun:niharika:deepti:tradional"/>
+    <file name="rashmi.css" crc="3839199694" ref="rashmi"/>
+    <file name="service.css" crc="3984258546" ref="service"/>
+    <file name="iefonts_service.css" crc="3847113265" ref="service"/>
+    <file name="about.css" crc="305369823" ref="about"/>
+    <file name="festive-wedding.css" crc="3939146357" ref="festive-wedding"/>
+    <file name="bharani.css" crc="441464978" ref="bharani"/>
+    <file name="our-weddings.css" crc="186677033" ref="our-weddings"/>
+    <file name="aanchal.css" crc="4020584205" ref="aanchal"/>
+    <file name="destination-wedding.css" crc="3966337011" ref="destination-wedding"/>
+    <file name="pooja.css" crc="3791854102" ref="pooja"/>
+    <file name="saudamini.css" crc="3864487551" ref="saudamini"/>
+    <file name="contact.css" crc="4263386190" ref="contact"/>
+    <file name="sharanya.css" crc="3897545170" ref="sharanya"/>
+    <file name="untitled-9.css" crc="274547276" ref="untitled-9"/>
+    <file name="shikha.css" crc="4053061343" ref="shikha"/>
+    <file name="index.css" crc="4058137151" ref="index"/>
+    <file name="kirti.css" crc="4214709184" ref="kirti"/>
+    <file name="aarthi-and-arun.css" crc="133241854" ref="aarthi-and-arun"/>
+    <file name="niharika.css" crc="424421776" ref="niharika"/>
+    <file name="deepti.css" crc="4000310785" ref="deepti"/>
+    <file name="tradional.css" crc="4109483793" ref="tradional"/>
   </folder>
   <folder name="assets">
     <file name="beach-wedding-in-chennai.jpg" crc="4277451970" seo="true" mt="1579614768000"/>
@@ -53,18 +53,18 @@
     <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:phone>about:phone>menu:phone>contact:index:tradional:festive-wedding:destination-wedding:untitled-9:aarthi-and-arun:deepti:bharani:kirti:shikha:aanchal:rashmi:pooja:saudamini:sharanya:niharika"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:phone>about:phone>menu:phone>contact:index:tradional:festive-wedding:destination-wedding:untitled-9:aarthi-and-arun:deepti:bharani:kirti:shikha:aanchal:rashmi:pooja:saudamini:sharanya:niharika"/>
     <file name="touchswipe.js" crc="4075097462" ref="phone>index:phone>about:phone>menu:phone>contact:index:tradional:festive-wedding:destination-wedding:untitled-9:aarthi-and-arun:deepti:bharani:kirti:shikha:aanchal:rashmi:pooja:saudamini:sharanya:niharika"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>about:phone>menu:phone>contact:index:about:service:tradional:festive-wedding:destination-wedding:contact:our-weddings:untitled-9:aarthi-and-arun:deepti:bharani:kirti:shikha:aanchal:rashmi:pooja:saudamini:sharanya:niharika"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>about:phone>menu:phone>contact"/>
     <file name="require.js" crc="7928878" ref="phone>index:phone>about:phone>menu:phone>contact:index:about:service:tradional:festive-wedding:destination-wedding:contact:our-weddings:untitled-9:aarthi-and-arun:deepti:bharani:kirti:shikha:aanchal:rashmi:pooja:saudamini:sharanya:niharika"/>
-    <file name="form_check.php" crc="4020933626" ref="phone>contact"/>
-    <file name="form_throttle.php" crc="4259590256" ref="phone>contact"/>
-    <file name="form_process.php" crc="37464564" ref="phone>contact"/>
+    <file name="form_check.php" crc="4020933626" ref="phone>contact:contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="phone>contact:contact"/>
+    <file name="form_process.php" crc="37464564" ref="phone>contact:contact"/>
     <file name="form-u2453.php" crc="5885555" ref="phone>contact"/>
     <file name="jquery.scrolleffects.js" crc="39568856" ref="index:service:tradional:festive-wedding:destination-wedding"/>
     <file name="form-u9079.php" crc="271532912" ref="contact"/>
   </folder>
   <folder name="images">
     <file name="darkback3-u2302-fr.jpg" crc="62747597" ref="phone>index"/>
-    <file name="dot-u2303-fr.png" crc="4068442560" ref="phone>index:phone>about:phone>menu:phone>contact:index:about"/>
+    <file name="dot-u2303-fr.png" crc="4068442560" ref="phone>index:phone>about:phone>menu:phone>contact"/>
     <file name="hnck3330-1300x866.jpg" crc="43266376" ref="phone>index:phone>about">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -73,14 +73,6 @@
     <file name="dot.png" crc="395932013" ref="phone>index:phone>about:phone>menu:index:about">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -220,20 +212,20 @@
       <caption webpage="service" alt=""/>
       <caption webpage="kirti" alt=""/>
       <caption webpage="bharani" alt=""/>
-      <caption webpage="festive-wedding" alt=""/>
-      <caption webpage="destination-wedding" alt=""/>
       <caption webpage="saudamini" alt=""/>
+      <caption webpage="festive-wedding" alt=""/>
+      <caption webpage="shikha" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="niharika" alt=""/>
+      <caption webpage="destination-wedding" alt=""/>
       <caption webpage="rashmi" alt=""/>
-      <caption webpage="our-weddings" alt=""/>
-      <caption webpage="aarthi-and-arun" alt=""/>
+      <caption webpage="niharika" alt=""/>
       <caption webpage="untitled-9" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="sharanya" alt=""/>
       <caption webpage="deepti" alt=""/>
+      <caption webpage="our-weddings" alt=""/>
+      <caption webpage="aarthi-and-arun" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="shikha" alt=""/>
       <caption webpage="pooja" alt=""/>
       <caption webpage="tradional" alt=""/>
       <caption webpage="aanchal" alt=""/>
@@ -242,20 +234,20 @@
       <caption webpage="service" alt=""/>
       <caption webpage="kirti" alt=""/>
       <caption webpage="bharani" alt=""/>
-      <caption webpage="festive-wedding" alt=""/>
-      <caption webpage="destination-wedding" alt=""/>
       <caption webpage="saudamini" alt=""/>
+      <caption webpage="festive-wedding" alt=""/>
+      <caption webpage="shikha" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="niharika" alt=""/>
+      <caption webpage="destination-wedding" alt=""/>
       <caption webpage="rashmi" alt=""/>
-      <caption webpage="our-weddings" alt=""/>
-      <caption webpage="aarthi-and-arun" alt=""/>
+      <caption webpage="niharika" alt=""/>
       <caption webpage="untitled-9" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="sharanya" alt=""/>
       <caption webpage="deepti" alt=""/>
+      <caption webpage="our-weddings" alt=""/>
+      <caption webpage="aarthi-and-arun" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="shikha" alt=""/>
       <caption webpage="pooja" alt=""/>
       <caption webpage="tradional" alt=""/>
       <caption webpage="aanchal" alt=""/>
@@ -264,42 +256,20 @@
       <caption webpage="service" alt=""/>
       <caption webpage="kirti" alt=""/>
       <caption webpage="bharani" alt=""/>
-      <caption webpage="festive-wedding" alt=""/>
-      <caption webpage="destination-wedding" alt=""/>
       <caption webpage="saudamini" alt=""/>
+      <caption webpage="festive-wedding" alt=""/>
+      <caption webpage="shikha" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="niharika" alt=""/>
+      <caption webpage="destination-wedding" alt=""/>
       <caption webpage="rashmi" alt=""/>
-      <caption webpage="our-weddings" alt=""/>
-      <caption webpage="aarthi-and-arun" alt=""/>
+      <caption webpage="niharika" alt=""/>
       <caption webpage="untitled-9" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="sharanya" alt=""/>
       <caption webpage="deepti" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="shikha" alt=""/>
-      <caption webpage="pooja" alt=""/>
-      <caption webpage="tradional" alt=""/>
-      <caption webpage="aanchal" alt=""/>
-    </file>
-    <file name="icons8_marker_128px.png" crc="3993961620" seo="true" ref="index:about:service:tradional:festive-wedding:destination-wedding:contact:our-weddings:untitled-9:aarthi-and-arun:deepti:bharani:kirti:shikha:aanchal:rashmi:pooja:saudamini:sharanya:niharika">
-      <caption webpage="service" alt=""/>
-      <caption webpage="kirti" alt=""/>
-      <caption webpage="bharani" alt=""/>
-      <caption webpage="festive-wedding" alt=""/>
-      <caption webpage="destination-wedding" alt=""/>
-      <caption webpage="saudamini" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="niharika" alt=""/>
-      <caption webpage="rashmi" alt=""/>
       <caption webpage="our-weddings" alt=""/>
       <caption webpage="aarthi-and-arun" alt=""/>
-      <caption webpage="untitled-9" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="sharanya" alt=""/>
-      <caption webpage="deepti" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="shikha" alt=""/>
       <caption webpage="pooja" alt=""/>
       <caption webpage="tradional" alt=""/>
       <caption webpage="aanchal" alt=""/>
@@ -308,20 +278,20 @@
       <caption webpage="service" alt=""/>
       <caption webpage="kirti" alt=""/>
       <caption webpage="bharani" alt=""/>
-      <caption webpage="festive-wedding" alt=""/>
-      <caption webpage="destination-wedding" alt=""/>
       <caption webpage="saudamini" alt=""/>
+      <caption webpage="festive-wedding" alt=""/>
+      <caption webpage="shikha" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="niharika" alt=""/>
+      <caption webpage="destination-wedding" alt=""/>
       <caption webpage="rashmi" alt=""/>
-      <caption webpage="our-weddings" alt=""/>
-      <caption webpage="aarthi-and-arun" alt=""/>
+      <caption webpage="niharika" alt=""/>
       <caption webpage="untitled-9" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="sharanya" alt=""/>
       <caption webpage="deepti" alt=""/>
+      <caption webpage="our-weddings" alt=""/>
+      <caption webpage="aarthi-and-arun" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="shikha" alt=""/>
       <caption webpage="pooja" alt=""/>
       <caption webpage="tradional" alt=""/>
       <caption webpage="aanchal" alt=""/>
@@ -330,20 +300,20 @@
       <caption webpage="service" alt=""/>
       <caption webpage="kirti" alt=""/>
       <caption webpage="bharani" alt=""/>
-      <caption webpage="festive-wedding" alt=""/>
-      <caption webpage="destination-wedding" alt=""/>
       <caption webpage="saudamini" alt=""/>
+      <caption webpage="festive-wedding" alt=""/>
+      <caption webpage="shikha" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="niharika" alt=""/>
+      <caption webpage="destination-wedding" alt=""/>
       <caption webpage="rashmi" alt=""/>
-      <caption webpage="our-weddings" alt=""/>
-      <caption webpage="aarthi-and-arun" alt=""/>
+      <caption webpage="niharika" alt=""/>
       <caption webpage="untitled-9" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="sharanya" alt=""/>
       <caption webpage="deepti" alt=""/>
+      <caption webpage="our-weddings" alt=""/>
+      <caption webpage="aarthi-and-arun" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="shikha" alt=""/>
       <caption webpage="pooja" alt=""/>
       <caption webpage="tradional" alt=""/>
       <caption webpage="aanchal" alt=""/>
@@ -352,20 +322,20 @@
       <caption webpage="service" alt=""/>
       <caption webpage="kirti" alt=""/>
       <caption webpage="bharani" alt=""/>
-      <caption webpage="festive-wedding" alt=""/>
-      <caption webpage="destination-wedding" alt=""/>
       <caption webpage="saudamini" alt=""/>
+      <caption webpage="festive-wedding" alt=""/>
+      <caption webpage="shikha" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="niharika" alt=""/>
+      <caption webpage="destination-wedding" alt=""/>
       <caption webpage="rashmi" alt=""/>
-      <caption webpage="our-weddings" alt=""/>
-      <caption webpage="aarthi-and-arun" alt=""/>
+      <caption webpage="niharika" alt=""/>
       <caption webpage="untitled-9" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="sharanya" alt=""/>
       <caption webpage="deepti" alt=""/>
+      <caption webpage="our-weddings" alt=""/>
+      <caption webpage="aarthi-and-arun" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="shikha" alt=""/>
       <caption webpage="pooja" alt=""/>
       <caption webpage="tradional" alt=""/>
       <caption webpage="aanchal" alt=""/>
@@ -396,7 +366,7 @@
       <caption webpage="tradional" alt=""/>
       <caption webpage="tradional" alt=""/>
     </file>
-    <file name="engagement 1.jpg" crc="3826705642" seo="true" ref="tradional">
+    <file name="engagement 1.jpg" crc="3826705642" ref="tradional">
       <caption webpage="tradional" alt=""/>
       <caption webpage="tradional" alt=""/>
     </file>
@@ -763,6 +733,7 @@
     <file name="best wedding planning in bangalore.jpg" crc="284180083" seo="true" ref="niharika">
       <caption webpage="niharika" alt=""/>
     </file>
+    <file name="dot-u1076-fr.png" crc="4068442560" ref="index:about"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -777,24 +748,24 @@
     <file name="menu.html" crc="514752231" seo="true" mt="1579617763480" redirect="true"/>
     <file name="contact.html" crc="4019817176" seo="true" mt="1579682343453" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4198575754" seo="true" mt="1579853939388" redirect="true"/>
-  <file name="about.html" crc="3953094408" seo="true" mt="1579853939388" redirect="true"/>
-  <file name="service.html" crc="225993899" seo="true" mt="1579853939388" redirect="true"/>
-  <file name="tradional.html" crc="352137451" seo="true" mt="1579853939388" redirect="true"/>
-  <file name="festive-wedding.html" crc="357679468" seo="true" mt="1579853939388" redirect="true"/>
-  <file name="destination-wedding.html" crc="522998521" seo="true" mt="1579853939388" redirect="true"/>
-  <file name="contact.html" crc="464094619" seo="true" mt="1579853939388" redirect="true"/>
-  <file name="our-weddings.html" crc="145391258" seo="true" mt="1579853939388" redirect="true"/>
-  <file name="untitled-9.html" crc="324060852" seo="true" mt="1579853939388" redirect="true"/>
-  <file name="aarthi-and-arun.html" crc="197008388" seo="true" mt="1579853939388" redirect="true"/>
-  <file name="deepti.html" crc="4119914267" seo="true" mt="1579853939388" redirect="true"/>
-  <file name="bharani.html" crc="3834179788" seo="true" mt="1579853939388" redirect="true"/>
-  <file name="kirti.html" crc="131491557" seo="true" mt="1579853939388" redirect="true"/>
-  <file name="shikha.html" crc="3981676474" seo="true" mt="1579853939388" redirect="true"/>
-  <file name="aanchal.html" crc="226666470" seo="true" mt="1579853939388" redirect="true"/>
-  <file name="rashmi.html" crc="4009786566" seo="true" mt="1579853939388" redirect="true"/>
-  <file name="pooja.html" crc="3807498232" seo="true" mt="1579853939388" redirect="true"/>
-  <file name="saudamini.html" crc="3786389600" seo="true" mt="1579853939388" redirect="true"/>
-  <file name="sharanya.html" crc="245734461" seo="true" mt="1579853939388" redirect="true"/>
-  <file name="niharika.html" crc="4030794368" seo="true" mt="1579853939388" redirect="true"/>
+  <file name="index.html" crc="170862798" seo="true" mt="1579855910332" redirect="true"/>
+  <file name="about.html" crc="393404558" seo="true" mt="1579855910332" redirect="true"/>
+  <file name="service.html" crc="4217627722" seo="true" mt="1579855910332" redirect="true"/>
+  <file name="tradional.html" crc="234572355" seo="true" mt="1579855910332" redirect="true"/>
+  <file name="festive-wedding.html" crc="8659982" seo="true" mt="1579855910332" redirect="true"/>
+  <file name="destination-wedding.html" crc="3907470148" seo="true" mt="1579855910332" redirect="true"/>
+  <file name="contact.html" crc="245605481" seo="true" mt="1579855910332" redirect="true"/>
+  <file name="our-weddings.html" crc="3887765550" seo="true" mt="1579855910332" redirect="true"/>
+  <file name="untitled-9.html" crc="313001550" seo="true" mt="1579855910332" redirect="true"/>
+  <file name="aarthi-and-arun.html" crc="428136893" seo="true" mt="1579855910332" redirect="true"/>
+  <file name="deepti.html" crc="3772959604" seo="true" mt="1579855910332" redirect="true"/>
+  <file name="bharani.html" crc="3919497199" seo="true" mt="1579855910332" redirect="true"/>
+  <file name="kirti.html" crc="495476340" seo="true" mt="1579855910332" redirect="true"/>
+  <file name="shikha.html" crc="194992152" seo="true" mt="1579855910332" redirect="true"/>
+  <file name="aanchal.html" crc="4073888059" seo="true" mt="1579855910332" redirect="true"/>
+  <file name="rashmi.html" crc="4189523968" seo="true" mt="1579855910332" redirect="true"/>
+  <file name="pooja.html" crc="244287719" seo="true" mt="1579855910332" redirect="true"/>
+  <file name="saudamini.html" crc="162863016" seo="true" mt="1579855910332" redirect="true"/>
+  <file name="sharanya.html" crc="340241529" seo="true" mt="1579855910332" redirect="true"/>
+  <file name="niharika.html" crc="3760041770" seo="true" mt="1579855910332" redirect="true"/>
 </manifest>
