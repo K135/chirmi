@@ -7,13 +7,13 @@
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://chirmievents.com/phone/index.html"/>
     <image:image>
+      <image:loc>http://chirmievents.com/images/best%20wedding%20in%20bangalore.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://chirmievents.com/images/best%20destination%20wedding%20planners%20in%20bangalore306x205.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://chirmievents.com/images/best%20wedding%20planners%20in%20bangalore%20and%20engagement.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://chirmievents.com/images/best%20wedding%20in%20bangalore4.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://chirmievents.com/images/best%20wedding%20planners%20in%20bangalore%20and%20karnataka.jpg</image:loc>
@@ -268,19 +268,19 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
+      <image:loc>http://chirmievents.com/images/wedding%20planners%20in%20bangalore.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chirmievents.com/images/wedding%20planners%20in%20bangalore%20karnataka.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://chirmievents.com/images/icons8_phone_52px_1.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://chirmievents.com/images/icons8_secured_letter_128px.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chirmievents.com/images/wedding%20planners%20in%20bangalore%20karnataka3.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://chirmievents.com/images/wedding%20planners%20in%20bangalore%20and%20karnataka.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://chirmievents.com/images/wedding%20planners%20in%20bangalore6.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -326,6 +326,9 @@
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://chirmievents.com/phone/about.html"/>
     <image:image>
+      <image:loc>http://chirmievents.com/images/best%20wedding%20planners%20in%20bangalore.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://chirmievents.com/images/icons8_phone_52px_1.png</image:loc>
     </image:image>
     <image:image>
@@ -333,9 +336,6 @@
     </image:image>
     <image:image>
       <image:loc>http://chirmievents.com/images/aboutus1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://chirmievents.com/images/best%20wedding%20planners%20in%20bangalore11.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://chirmievents.com/images/best%20wedding%20planners%20in%20bangalore%20karnataka.png</image:loc>
