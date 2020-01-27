@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chirmievents.com" resolutions="1x" timestamp="1580142858557">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chirmievents.com" resolutions="1x" timestamp="1580143381738">
   <folder name="css">
     <file name="site_global.css" crc="3891803924"/>
     <file name="master_a-master.css" crc="365570770" ref="about:engagement:anniversary:sharanya:aanchal:contact:nihariika:aarthi:services:our-weddings:wedding:rashmi:saudamini:bharathi:kirti:pooja:shikha:deepti:arpita:index"/>
@@ -21,7 +21,7 @@
     <file name="shikha.css" crc="4282262340" ref="shikha"/>
     <file name="deepti.css" crc="39218498" ref="deepti"/>
     <file name="arpita.css" crc="155328489" ref="arpita"/>
-    <file name="index.css" crc="227820608" ref="index"/>
+    <file name="index.css" crc="4054040605" ref="index"/>
     <file name="iefonts_index.css" crc="3875969019" ref="index"/>
   </folder>
   <folder name="assets">
@@ -524,10 +524,10 @@
       <caption webpage="deepti" alt=""/>
       <caption webpage="engagement" alt=""/>
       <caption webpage="nihariika" alt=""/>
-      <caption webpage="our-weddings" alt=""/>
+      <caption webpage="kirti" alt=""/>
       <caption webpage="saudamini" alt=""/>
       <caption webpage="aarthi" alt=""/>
-      <caption webpage="kirti" alt=""/>
+      <caption webpage="our-weddings" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="rashmi" alt=""/>
       <caption webpage="anniversary" alt=""/>
@@ -546,10 +546,10 @@
       <caption webpage="deepti" alt=""/>
       <caption webpage="engagement" alt=""/>
       <caption webpage="nihariika" alt=""/>
-      <caption webpage="our-weddings" alt=""/>
+      <caption webpage="kirti" alt=""/>
       <caption webpage="saudamini" alt=""/>
       <caption webpage="aarthi" alt=""/>
-      <caption webpage="kirti" alt=""/>
+      <caption webpage="our-weddings" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="rashmi" alt=""/>
       <caption webpage="anniversary" alt=""/>
@@ -1027,7 +1027,7 @@
     <file name="festive-wedding.html" crc="341334127" seo="true" mt="1580044094314" redirect="true"/>
     <file name="destination-wedding.html" crc="446567916" seo="true" mt="1580044100731" redirect="true"/>
   </folder>
-  <file name="index.html" crc="428271756" seo="true" mt="1580142779354" redirect="true"/>
+  <file name="index.html" crc="358241303" seo="true" mt="1580143351707" redirect="true"/>
   <file name="about.html" crc="15686168" seo="true" mt="1580142779354" redirect="true"/>
   <file name="services.html" crc="3801556899" seo="true" mt="1580142779354" redirect="true"/>
   <file name="anniversary.html" crc="4059371671" seo="true" mt="1580142779354" redirect="true"/>
