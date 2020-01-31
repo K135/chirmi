@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://chirmievents.com/index.html</loc>
-    <lastmod>2020-01-27</lastmod>
+    <lastmod>2020-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://chirmievents.com/phone/index.html"/>
     <image:image>
-      <image:loc>http://chirmievents.com/images/best%20wedding%20in%20bangalore.jpg</image:loc>
+      <image:loc>http://chirmievents.com/images/best%20destination%20wedding%20planners%20in%20bangalore.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chirmievents.com/images/best%20destination%20wedding%20planners%20in%20bangalore306x205.jpg</image:loc>
+      <image:loc>http://chirmievents.com/images/best%20wedding%20in%20bangalore.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://chirmievents.com/images/best%20wedding%20planners%20in%20bangalore%20and%20engagement.jpg</image:loc>
@@ -42,16 +42,28 @@
     <image:image>
       <image:loc>http://chirmievents.com/images/icons8_secured_letter_128px.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://chirmievents.com/phone/niharika.html</loc>
-    <lastmod>2020-01-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://chirmievents.com/images/budget%20plannig.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chirmievents.com/images/best%20wedding%20planners%20in%20bangalore.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chirmievents.com/images/best%20wedding%20planners%20in%20bangalore%20and%20karnataka.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chirmievents.com/images/wedding%20planners%20in%20bangalore.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chirmievents.com/images/wedding%20planners%20in%20bangalore%20and%20karnataka.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chirmievents.com/images/best%20wedding%20planner.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://chirmievents.com/phone/untitled-7.html</loc>
-    <lastmod>2020-01-26</lastmod>
+    <lastmod>2020-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -62,33 +74,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://chirmievents.com/aarthi.html</loc>
-    <lastmod>2020-01-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://chirmievents.com/images/icons8_phone_52px_1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://chirmievents.com/images/icons8_secured_letter_128px.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://chirmievents.com/deepti.html</loc>
-    <lastmod>2020-01-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://chirmievents.com/phone/deepti.html"/>
-    <image:image>
-      <image:loc>http://chirmievents.com/images/icons8_phone_52px_1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://chirmievents.com/images/icons8_secured_letter_128px.png</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://chirmievents.com/contact.html</loc>
-    <lastmod>2020-01-27</lastmod>
+    <lastmod>2020-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://chirmievents.com/phone/contact.html"/>
@@ -100,8 +87,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://chirmievents.com/bharathi.html</loc>
-    <lastmod>2020-01-27</lastmod>
+    <loc>http://chirmievents.com/aarthi.html</loc>
+    <lastmod>2020-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -112,11 +99,10 @@
     </image:image>
   </url>
   <url>
-    <loc>http://chirmievents.com/kirti.html</loc>
-    <lastmod>2020-01-27</lastmod>
+    <loc>http://chirmievents.com/our-blog.html</loc>
+    <lastmod>2020-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://chirmievents.com/phone/kirti.html"/>
     <image:image>
       <image:loc>http://chirmievents.com/images/icons8_phone_52px_1.png</image:loc>
     </image:image>
@@ -126,7 +112,7 @@
   </url>
   <url>
     <loc>http://chirmievents.com/arpita.html</loc>
-    <lastmod>2020-01-27</lastmod>
+    <lastmod>2020-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -137,11 +123,10 @@
     </image:image>
   </url>
   <url>
-    <loc>http://chirmievents.com/sharanya.html</loc>
-    <lastmod>2020-01-27</lastmod>
+    <loc>http://chirmievents.com/bharathi.html</loc>
+    <lastmod>2020-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://chirmievents.com/phone/sharanya.html"/>
     <image:image>
       <image:loc>http://chirmievents.com/images/icons8_phone_52px_1.png</image:loc>
     </image:image>
@@ -150,11 +135,11 @@
     </image:image>
   </url>
   <url>
-    <loc>http://chirmievents.com/saudamini.html</loc>
-    <lastmod>2020-01-27</lastmod>
+    <loc>http://chirmievents.com/deepti.html</loc>
+    <lastmod>2020-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://chirmievents.com/phone/saudamini.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://chirmievents.com/phone/deepti.html"/>
     <image:image>
       <image:loc>http://chirmievents.com/images/icons8_phone_52px_1.png</image:loc>
     </image:image>
@@ -164,7 +149,7 @@
   </url>
   <url>
     <loc>http://chirmievents.com/shikha.html</loc>
-    <lastmod>2020-01-27</lastmod>
+    <lastmod>2020-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://chirmievents.com/phone/shikha.html"/>
@@ -176,11 +161,11 @@
     </image:image>
   </url>
   <url>
-    <loc>http://chirmievents.com/rashmi.html</loc>
-    <lastmod>2020-01-27</lastmod>
+    <loc>http://chirmievents.com/sharanya.html</loc>
+    <lastmod>2020-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://chirmievents.com/phone/rashmi.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://chirmievents.com/phone/sharanya.html"/>
     <image:image>
       <image:loc>http://chirmievents.com/images/icons8_phone_52px_1.png</image:loc>
     </image:image>
@@ -189,11 +174,11 @@
     </image:image>
   </url>
   <url>
-    <loc>http://chirmievents.com/aanchal.html</loc>
-    <lastmod>2020-01-27</lastmod>
+    <loc>http://chirmievents.com/kirti.html</loc>
+    <lastmod>2020-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://chirmievents.com/phone/aanchal.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://chirmievents.com/phone/kirti.html"/>
     <image:image>
       <image:loc>http://chirmievents.com/images/icons8_phone_52px_1.png</image:loc>
     </image:image>
@@ -203,7 +188,7 @@
   </url>
   <url>
     <loc>http://chirmievents.com/pooja.html</loc>
-    <lastmod>2020-01-27</lastmod>
+    <lastmod>2020-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://chirmievents.com/phone/pooja.html"/>
@@ -215,10 +200,11 @@
     </image:image>
   </url>
   <url>
-    <loc>http://chirmievents.com/our-weddings.html</loc>
-    <lastmod>2020-01-27</lastmod>
+    <loc>http://chirmievents.com/rashmi.html</loc>
+    <lastmod>2020-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://chirmievents.com/phone/rashmi.html"/>
     <image:image>
       <image:loc>http://chirmievents.com/images/icons8_phone_52px_1.png</image:loc>
     </image:image>
@@ -227,10 +213,11 @@
     </image:image>
   </url>
   <url>
-    <loc>http://chirmievents.com/wedding.html</loc>
-    <lastmod>2020-01-27</lastmod>
+    <loc>http://chirmievents.com/saudamini.html</loc>
+    <lastmod>2020-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://chirmievents.com/phone/saudamini.html"/>
     <image:image>
       <image:loc>http://chirmievents.com/images/icons8_phone_52px_1.png</image:loc>
     </image:image>
@@ -240,7 +227,44 @@
   </url>
   <url>
     <loc>http://chirmievents.com/nihariika.html</loc>
-    <lastmod>2020-01-27</lastmod>
+    <lastmod>2020-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://chirmievents.com/images/icons8_phone_52px_1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chirmievents.com/images/icons8_secured_letter_128px.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://chirmievents.com/our-weddings.html</loc>
+    <lastmod>2020-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://chirmievents.com/images/icons8_phone_52px_1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chirmievents.com/images/icons8_secured_letter_128px.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://chirmievents.com/aanchal.html</loc>
+    <lastmod>2020-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://chirmievents.com/phone/aanchal.html"/>
+    <image:image>
+      <image:loc>http://chirmievents.com/images/icons8_phone_52px_1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chirmievents.com/images/icons8_secured_letter_128px.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://chirmievents.com/engagement.html</loc>
+    <lastmod>2020-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -252,7 +276,7 @@
   </url>
   <url>
     <loc>http://chirmievents.com/anniversary.html</loc>
-    <lastmod>2020-01-27</lastmod>
+    <lastmod>2020-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -263,29 +287,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://chirmievents.com/services.html</loc>
-    <lastmod>2020-01-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://chirmievents.com/images/wedding%20planners%20in%20bangalore.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://chirmievents.com/images/wedding%20planners%20in%20bangalore%20karnataka.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://chirmievents.com/images/icons8_phone_52px_1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://chirmievents.com/images/icons8_secured_letter_128px.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://chirmievents.com/images/wedding%20planners%20in%20bangalore%20and%20karnataka.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://chirmievents.com/engagement.html</loc>
-    <lastmod>2020-01-27</lastmod>
+    <loc>http://chirmievents.com/wedding.html</loc>
+    <lastmod>2020-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -296,32 +299,14 @@
     </image:image>
   </url>
   <url>
-    <loc>http://chirmievents.com/phone/festive-wedding.html</loc>
+    <loc>http://chirmievents.com/phone/niharika.html</loc>
     <lastmod>2020-01-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://chirmievents.com/phone/traditional.html</loc>
-    <lastmod>2020-01-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://chirmievents.com/phone/our-weddingd.html</loc>
-    <lastmod>2020-01-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://chirmievents.com/phone/our-services.html</loc>
-    <lastmod>2020-01-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://chirmievents.com/about.html</loc>
-    <lastmod>2020-01-27</lastmod>
+    <lastmod>2020-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://chirmievents.com/phone/about.html"/>
@@ -348,6 +333,51 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://chirmievents.com/phone/our-weddingd.html</loc>
+    <lastmod>2020-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://chirmievents.com/phone/our-services.html</loc>
+    <lastmod>2020-01-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://chirmievents.com/phone/traditional.html</loc>
+    <lastmod>2020-01-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://chirmievents.com/phone/festive-wedding.html</loc>
+    <lastmod>2020-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://chirmievents.com/services.html</loc>
+    <lastmod>2020-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://chirmievents.com/images/wedding%20planners%20in%20bangalore.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chirmievents.com/images/wedding%20planners%20in%20bangalore%20karnataka.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chirmievents.com/images/icons8_phone_52px_1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chirmievents.com/images/icons8_secured_letter_128px.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chirmievents.com/images/wedding%20planners%20in%20bangalore%20and%20karnataka.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://chirmievents.com/phone/bharani.html</loc>
     <lastmod>2020-01-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -360,37 +390,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://chirmievents.com/assets/number-one-wedding-planners-in-bangalore.jpg</loc>
-    <lastmod>2020-01-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://chirmievents.com/assets/cover9.jpg</loc>
-    <lastmod>2019-10-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://chirmievents.com/assets/cover11.jpg</loc>
-    <lastmod>2019-10-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://chirmievents.com/assets/among-the-best-wedding-planners-in-bangalore-karnataka-india.jpg</loc>
-    <lastmod>2020-01-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://chirmievents.com/assets/cover10.jpg</loc>
-    <lastmod>2019-10-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://chirmievents.com/assets/cover6.jpg</loc>
     <lastmod>2019-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -402,13 +402,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://chirmievents.com/assets/cover7.jpg</loc>
+    <loc>http://chirmievents.com/assets/among-the-best-wedding-planners-in-bangalore-karnataka-india.jpg</loc>
+    <lastmod>2020-01-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://chirmievents.com/assets/cover10.jpg</loc>
     <lastmod>2019-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://chirmievents.com/assets/cover3.jpg</loc>
+    <loc>http://chirmievents.com/assets/cover9.jpg</loc>
     <lastmod>2019-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -420,14 +426,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://chirmievents.com/assets/cover4.jpg</loc>
+    <loc>http://chirmievents.com/assets/cover7.jpg</loc>
     <lastmod>2019-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://chirmievents.com/assets/best-wedding-planners-in-bangalore-india.jpg</loc>
-    <lastmod>2020-01-23</lastmod>
+    <loc>http://chirmievents.com/assets/cover6.jpg</loc>
+    <lastmod>2019-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -438,62 +444,86 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://chirmievents.com/assets/cover4.jpg</loc>
+    <lastmod>2019-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://chirmievents.com/assets/cover3.jpg</loc>
+    <lastmod>2019-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://chirmievents.com/assets/best-wedding-planners-bangalore.jpg</loc>
+    <lastmod>2020-01-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://chirmievents.com/assets/cover.jpg</loc>
     <lastmod>2019-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://chirmievents.com/assets/best-wedding-planners-in-bangalore-karnataka2.jpg</loc>
-    <lastmod>2020-01-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://chirmievents.com/assets/best-wedding-planners-bangalore.jpg</loc>
-    <lastmod>2020-01-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://chirmievents.com/assets/wedding-planners-in-bangalore-india.jpg</loc>
-    <lastmod>2020-01-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://chirmievents.com/assets/wedding-planners-in-bangalore-and-around-karnataka2.jpg</loc>
-    <lastmod>2020-01-23</lastmod>
+    <loc>http://chirmievents.com/assets/best-wedding-planners-in-bangalore-india.jpg</loc>
+    <lastmod>2020-01-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://chirmievents.com/assets/best-wedding-in-bangalore.jpg</loc>
-    <lastmod>2020-01-23</lastmod>
+    <lastmod>2020-01-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://chirmievents.com/assets/best-wedding-planners-in-bangalore-karnataka-india.jpg</loc>
-    <lastmod>2020-01-23</lastmod>
+    <loc>http://chirmievents.com/assets/wedding-planners-in-bangalore-india.jpg</loc>
+    <lastmod>2020-01-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://chirmievents.com/assets/wedding-planners-in-bangalore.jpg</loc>
-    <lastmod>2020-01-23</lastmod>
+    <loc>http://chirmievents.com/assets/best-wedding-planners-in-bangalore-karnataka2.jpg</loc>
+    <lastmod>2020-01-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://chirmievents.com/assets/best-wedding-planners-in-bangalore-karnataka.jpg</loc>
-    <lastmod>2020-01-23</lastmod>
+    <lastmod>2020-01-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://chirmievents.com/assets/best-wedding-planners-in-bangalore-karnataka-india.jpg</loc>
+    <lastmod>2020-01-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://chirmievents.com/assets/wedding-planners-in-bangalore-and-around-karnataka2.jpg</loc>
+    <lastmod>2020-01-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://chirmievents.com/assets/number-one-wedding-planners-in-bangalore.jpg</loc>
+    <lastmod>2020-01-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://chirmievents.com/assets/wedding-planners-in-bangalore-and-around-karnataka.jpg</loc>
-    <lastmod>2020-01-23</lastmod>
+    <lastmod>2020-01-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://chirmievents.com/assets/wedding-planners-in-bangalore.jpg</loc>
+    <lastmod>2020-01-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
